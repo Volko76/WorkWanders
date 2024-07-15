@@ -1,0 +1,11 @@
+.search{
+    position: absolute;
+    top: -5vh;
+}
+.search_container{
+    position: relative;;
+}
+.bigger-form-control .form-control {
+    width: 20vw;
+    font-size: 1.2rem;
+}

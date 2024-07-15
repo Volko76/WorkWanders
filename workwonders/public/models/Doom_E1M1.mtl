@@ -1,0 +1,227 @@
+# MTL for Doom.wad, map E1M1
+# Created by Ultimate Doom Builder 3.0.0.4171
+
+newmtl BIGDOOR2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\BIGDOOR2.png
+
+newmtl BIGDOOR4
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\BIGDOOR4.png
+
+newmtl BRNBIGC
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\BRNBIGC.png
+
+newmtl BRNBIGL
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\BRNBIGL.png
+
+newmtl BRNBIGR
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\BRNBIGR.png
+
+newmtl BROWN1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\BROWN1.png
+
+newmtl BROWN144
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\BROWN144.png
+
+newmtl BROWN96
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\BROWN96.png
+
+newmtl BROWNGRN
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\BROWNGRN.png
+
+newmtl COMPSPAN
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\COMPSPAN.png
+
+newmtl COMPTALL
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\COMPTALL.png
+
+newmtl COMPTILE
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\COMPTILE.png
+
+newmtl COMPUTE2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\COMPUTE2.png
+
+newmtl COMPUTE3
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\COMPUTE3.png
+
+newmtl DOOR3
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\DOOR3.png
+
+newmtl DOORSTOP
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\DOORSTOP.png
+
+newmtl DOORTRAK
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\DOORTRAK.png
+
+newmtl EXITDOOR
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\EXITDOOR.png
+
+newmtl EXITSIGN
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\EXITSIGN.png
+
+newmtl LITE3
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\LITE3.png
+
+newmtl NUKE24
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\NUKE24.png
+
+newmtl PLANET1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\PLANET1.png
+
+newmtl SLADWALL
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\SLADWALL.png
+
+newmtl STARG3
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\STARG3.png
+
+newmtl STARGR1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\STARGR1.png
+
+newmtl STARTAN1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\STARTAN1.png
+
+newmtl STARTAN3
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\STARTAN3.png
+
+newmtl STEP1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\STEP1.png
+
+newmtl STEP6
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\STEP6.png
+
+newmtl SUPPORT2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\SUPPORT2.png
+
+newmtl SW1COMP
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\SW1COMP.png
+
+newmtl SW1STRTN
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\SW1STRTN.png
+
+newmtl TEKWALL1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\TEKWALL1.png
+
+newmtl TEKWALL4
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\TEKWALL4.png
+
+newmtl CEIL3_5
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\CEIL3_5.png
+
+newmtl CEIL5_1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\CEIL5_1.png
+
+newmtl CEIL5_2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\CEIL5_2.png
+
+newmtl F_SKY1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\F_SKY1.png
+
+newmtl FLAT14
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLAT14.png
+
+newmtl FLAT18
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLAT18.png
+
+newmtl FLAT20
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLAT20.png
+
+newmtl FLAT23
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLAT23.png
+
+newmtl FLAT5_5
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLAT5_5.png
+
+newmtl FLOOR1_1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLOOR1_1.png
+
+newmtl FLOOR4_8
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLOOR4_8.png
+
+newmtl FLOOR5_1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLOOR5_1.png
+
+newmtl FLOOR5_2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLOOR5_2.png
+
+newmtl FLOOR6_2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLOOR6_2.png
+
+newmtl FLOOR7_1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLOOR7_1.png
+
+newmtl FLOOR7_2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\FLOOR7_2.png
+
+newmtl NUKAGE3
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\NUKAGE3.png
+
+newmtl STEP2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\STEP2.png
+
+newmtl TLITE6_1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\TLITE6_1.png
+
+newmtl TLITE6_4
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\TLITE6_4.png
+
+newmtl TLITE6_5
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\TLITE6_5.png
+
+newmtl TLITE6_6
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\mluet\Downloads\Doom\TLITE6_6.png
+

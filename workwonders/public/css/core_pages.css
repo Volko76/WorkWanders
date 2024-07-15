@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    height: 75px;
+}
+
+main {
+    flex: auto;
+}
+
+footer {
+    height: 25px;
+}
+
+.box{
+    background-color: gray;
+}
+
+.btn i.material-icons {
+    vertical-align: middle;
+}
+.vertical-center {
+    display: flex;
+    align-items: center;
+}
