@@ -17,9 +17,10 @@ Il y a également un panel admin mais seul un autre admin ou quelqu'un ayant un 
 ## Comment déployer le site
 1. Clonez ou téléchargez le dépot.
 2. Installez [NodeJS](https://nodejs.org/en/download/package-manager).
-3. Lancez la commande `npm i` pour installer tous les packets nécéssaires. 
-4. Lancez le site web avec la commande `npm start`.
-5. Vérifiez que vous êtes bien connecté à Internet et au VPN de l'UTC.
+3. Lancez la commande `npm i` pour installer tous les packets nécéssaires.
+4. Ajoutez votre base de données (perso ProgreSQL) dans workwonders/model/db.js
+5. Lancez le site web avec la commande `npm start`.
+6. Vérifiez que vous êtes bien connecté à Internet et au VPN de l'UTC.
 5. Rendez-vous à l'addresse [localhost:3000](localhost:3000) sur votre navigateur web préféré.
 
 ## Comptes de test
@@ -159,8 +160,9 @@ The website allows users to search for jobs and apply to them. Users can also re
 1. Clone or download the repository,
 2. Install [NodeJS](https://nodejs.org/en/download/package-manager)
 3. Run the command `npm i` to install all necessary packages.
-4. Launch the website with the command `npm start`
-5. Go to [localhost:3000](localhost:3000) in your preferred web browser.
+4. Add your database (I used ProgreSQL) in workwonders/model/db.js
+5. Launch the website with the command `npm start`
+6. Go to [localhost:3000](localhost:3000) in your preferred web browser.
 
 Here is the translation:
 
